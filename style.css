@@ -33,3 +33,18 @@ h1 {
 	font-size: 200px;
 	font-family: Helvetica, sans-serif;
 }
+
+li {
+	text-align: left;
+	display: inline-block;
+}
+
+.link a {
+	font-family: Helvetica, sans-serif;
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+}
+.link a:hover {
+	color: black;
+}
