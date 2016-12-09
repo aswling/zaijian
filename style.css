@@ -39,12 +39,13 @@ li {
 	display: inline-block;
 }
 
-.link a {
+a {
 	font-family: Helvetica, sans-serif;
 	color: white;
 	text-decoration: none;
 	font-size: 18px;
 }
+
 .link a:hover {
 	color: black;
 }
